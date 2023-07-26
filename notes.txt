@@ -1,0 +1,13 @@
+Instalar Node Modules
+    npm install --legacy-peer-deps
+
+Instrucciones del Despliegue
+ crear file en /build
+    .htaccess 
+        RewriteEngine On  
+        RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
+        RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
+        RewriteRule ^ - [L]
+        RewriteRule ^ /index.html [L]
+
+solo se necesita la carpeta build

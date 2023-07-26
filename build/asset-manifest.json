@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca36ddb5.chunk.css",
+    "main.js": "/static/js/main.f8d04fd6.chunk.js",
+    "main.js.map": "/static/js/main.f8d04fd6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.899edfa4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.899edfa4.js.map",
+    "static/css/2.1881a404.chunk.css": "/static/css/2.1881a404.chunk.css",
+    "static/js/2.e99a1c17.chunk.js": "/static/js/2.e99a1c17.chunk.js",
+    "static/js/2.e99a1c17.chunk.js.map": "/static/js/2.e99a1c17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.ca36ddb5.chunk.css.map": "/static/css/main.ca36ddb5.chunk.css.map",
+    "static/js/2.e99a1c17.chunk.js.LICENSE.txt": "/static/js/2.e99a1c17.chunk.js.LICENSE.txt",
+    "static/js/main.f8d04fd6.chunk.js.LICENSE.txt": "/static/js/main.f8d04fd6.chunk.js.LICENSE.txt",
+    "static/media/Hremes_TradingCard.jpg": "/static/media/Hremes_TradingCard.d0c5a208.jpg",
+    "static/media/Logo_app.png": "/static/media/Logo_app.dced25be.png",
+    "static/media/bg-pricing.b1a66687.jpeg": "/static/media/bg-pricing.b1a66687.jpeg",
+    "static/media/clint-mckoy.b76340fe.jpg": "/static/media/clint-mckoy.b76340fe.jpg",
+    "static/media/hermeswp.beecfd01.png": "/static/media/hermeswp.beecfd01.png",
+    "static/media/lock.9a41f1d5.jpeg": "/static/media/lock.9a41f1d5.jpeg",
+    "static/media/logo-white.svg": "/static/media/logo-white.cf9143d2.svg",
+    "static/media/logo.svg": "/static/media/logo.2d27ead7.svg",
+    "static/media/sidebar-1.d4b3c417.jpg": "/static/media/sidebar-1.d4b3c417.jpg",
+    "static/media/sidebar-2.jpg": "/static/media/sidebar-2.42e96f8d.jpg",
+    "static/media/sidebar-3.482940f2.jpg": "/static/media/sidebar-3.482940f2.jpg",
+    "static/media/sidebar-4.ab008ac3.jpg": "/static/media/sidebar-4.ab008ac3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899edfa4.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.e99a1c17.chunk.js",
+    "static/css/main.ca36ddb5.chunk.css",
+    "static/js/main.f8d04fd6.chunk.js"
+  ]
+}
